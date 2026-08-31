@@ -60,7 +60,7 @@ dormitory 是一款面向高校学生公寓的智慧宿舍管理平台，支持�
 
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/dormitory/%E6%A5%BC%E6%A0%8B%E7%AE%A1%E7%90%86.png" alt="楼栋管理" width="600" />
 
-<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/dormitory/%E7%99%BB%E5%BD%95%E9%A1%B5.png" alt="登录页" width="600" />
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/dormitory/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png" alt="登录页面" width="600" />
 
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/dormitory/%E7%AE%A1%E7%90%86%E5%91%98%E4%BB%AA%E8%A1%A8%E7%9B%98.png" alt="管理员仪表盘" width="600" />
 
